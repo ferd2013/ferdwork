@@ -1,0 +1,25 @@
+INSTRUCTIONS:
+download test.rar
+
+
+TEST1
+
+download casperjs
+copy files to C:\ ( it should look like C:\casperjs)
+copy test1.js to C:\casperjs\samples
+fire up command prompt
+type C:\casperjs\batchbin\casperjs casperjs\samples\test1.js
+
+it should display:
+
+Click ok, new location is http://www.w3schools.com/js/
+
+JavaScript is first word of title. Confirmed.
+
+TEST2
+
+download test2 folder
+open test2/index.html
+
+
+
